@@ -1,5 +1,7 @@
 # Proyecto de Test ESP32
 
+![ESP32](esp32.png)
+
 Este proyecto es una prueba simple para verificar el funcionamiento básico de una placa ESP32. Realiza dos funciones principales: parpadeo de un LED y comunicación serie.
 
 ## Funcionalidades
